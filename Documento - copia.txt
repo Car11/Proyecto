@@ -1,0 +1,23 @@
+-- inicio del proyecto -- 13:55
+
+
+1
+2
+3
+4
+5
+6
+7AAAA
+8
+9BBB
+10
+11
+12
+13
+14CCC
+15
+16
+17
+*******
+HASTA LA LINEA 20 ESTA BIEN
+*******
