@@ -1,6 +1,6 @@
 -- inicio del proyecto -- 13:55
 
--- METODO Z
+-- METODO ABC
 A
 BFASD
 FASD
