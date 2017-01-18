@@ -1,18 +1,12 @@
 -- inicio del proyecto -- 13:55
 
-
+-- METODO Z
 A
-B
-C
-D
-E
-F
-G
-H
-I
-J
-11
-12
+BFASD
+FASD
+FASD
+FASD
+--
 13
 14
 15
